@@ -173,6 +173,7 @@ a:hover{
 }
 .img5{
     width:100%;
+}
 footer{
         font-family: 'Merriweather', serif;
         background-color: #99738e;
@@ -212,7 +213,7 @@ footer{
     }
     p#headline2{
         margin:0;
-        padding:8px;
+        padding:4px;
         box-sizing: border-box;
         font-size: 14px;
     }
