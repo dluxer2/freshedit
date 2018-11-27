@@ -32,6 +32,7 @@ ul{
     border-bottom: solid;
     border-bottom-width: 4px;
     border-bottom-color: grey;
+    background-color: #0c0032;
 }
 li{
     list-style: none;
@@ -50,7 +51,7 @@ h2{
 }
 article{
     background-color: #0c0032;
-    padding-top: 14vh;
+    padding-top: 16vh;
 }
 #lfn{
     display:flex;
