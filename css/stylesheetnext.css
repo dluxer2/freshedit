@@ -17,6 +17,7 @@ h1{
     text-align: center;
     margin:0;
     color:#ffffff;
+    background-color: #0c0032;
 }
 ul{
     display: flex;
@@ -45,7 +46,7 @@ li{
 }
 main{
     height:45vh;
-    padding-top: 15vh;
+    padding-top: 17vh;
     padding-bottom: 5vh;
     display:flex;
     justify-content:center;
@@ -153,6 +154,7 @@ h3{
 }
 #telly{
     text-align:center;
+    font-color: #000000;
 }
 p{
     font-family: 'Merriweather', serif;
