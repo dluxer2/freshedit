@@ -33,6 +33,7 @@ ul{
     border-bottom-width: 4px;
     border-bottom-color: grey;
     background-color: #0c0032;
+    margin:0;
 }
 li{
     list-style: none;
@@ -48,10 +49,11 @@ h2{
     border-bottom: solid;
     border-bottom-color: #99738e;
     border-bottom-width: 12px;
+    padding-top:
 }
 article{
     background-color: #0c0032;
-    padding-top: 16vh;
+    padding-top: 18vh;
 }
 #lfn{
     display:flex;
@@ -89,11 +91,11 @@ article{
     bottom:0;
     right:0;
     background-color: purple;
-    padding-left:10px;
+    padding-left:8px;
     box-sizing: border-box;
 }
 p{
-    font-size: 18px;
+    font-size: 16px;
     color:#ffffff;
 }
 #bottom{
@@ -115,6 +117,9 @@ footer{
 {
     .artbox{
         width:48vh;
+    }
+    article{
+        padding-top:17vh;
     }
     
 }
