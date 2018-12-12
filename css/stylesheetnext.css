@@ -17,6 +17,7 @@ h1{
     text-align: center;
     margin:0;
     color:#ffffff;
+    background-color: #0c0032;
 }
 ul{
     display: flex;
@@ -45,7 +46,7 @@ li{
 }
 main{
     height:45vh;
-    padding-top: 13vh;
+    padding-top: 14vh;
     padding-bottom: 5vh;
     display:flex;
     justify-content:center;
