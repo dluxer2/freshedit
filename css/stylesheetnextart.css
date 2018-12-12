@@ -193,6 +193,8 @@ h3{
 #telly{
     text-align:center;
     font-color: #000000;
+    margin: 0;
+    text-decoration:none;
 }
 p{
     font-family: 'Merriweather', serif;
