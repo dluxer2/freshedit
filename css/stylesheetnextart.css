@@ -35,13 +35,14 @@ ul{
     border-bottom: solid;
    border-bottom-width: 4px;
    border-bottom-color: grey;
+    margin:0;
     
 }
 li{
     list-style: none;
 }
 h2{
-    padding-top: 15vh;
+    padding-top: 16vh;
     padding-bottom: 2vh;
     text-align: center;
     font-family: 'Merriweather', Serif;
