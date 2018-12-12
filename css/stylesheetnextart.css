@@ -40,6 +40,7 @@ ul{
 }
 li{
     list-style: none;
+    font-size: 15px;
 }
 h2{
     padding-top: 16vh;
