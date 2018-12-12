@@ -61,6 +61,7 @@ section{
     box-sizing: border-box;
     background-color: #0c0032;
     font-size: 22px;
+    height: 13vh;
 }
 p{
     color:#ffffff;
